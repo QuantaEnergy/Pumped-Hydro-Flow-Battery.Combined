@@ -6,3 +6,7 @@ Instead of using only pumped hydro or flow battery to store energy, combine them
 constraints: electrolyte viscosity must be fairly low. 
 
 optimization: higher density electrolytes enable greater gravitational energy storage!
+
+A subterranean chamber for the depleted state, is ideal for solar panels or wind turbines on the surface! 
+
+we can also use large scale solar balloon platforms for Solar Sky energy harvesting and some of the gravitational storage can be at very high altitude!
